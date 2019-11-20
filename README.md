@@ -6,4 +6,6 @@ The file namely <font color=black>**cleaning & exploration** </font>: intend to 
 The file namely <font color=black>**models** </font> : in this file, we had test various that could allow to classify one customer in his historical purchases and predict if one visitor to one e-commerce site will pass to purchase or not .  
 The file <font color=black>**programe.py**</font> : This file had the code of a python application , which can allow to classify a customer from his first purchase. 
 $$ 
-\begin{array}{c} \triangleright \end{array} $$ 
+\begin{array}{c} \triangleright \\
+\end{array} 
+$$ 

@@ -5,4 +5,4 @@ The file Online <font color=black>**Retail.xlsv**</font> : contains the dataset 
 The file namely <font color=black>**cleaning & exploration** </font>: intend to do the cleaning and exploration of our datas .  
 The file namely <font color=black>**models** </font> : in this file, we had test various that could allow to classify one customer in his historical purchases and predict if one visitor to one e-commerce site will pass to purchase or not .  
 The file <font color=black>**programe.py**</font> : This file had the code of a python application , which can allow to classify a customer from his first purchase. 
-$$ \# $$
+$ \# $

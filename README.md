@@ -1,5 +1,5 @@
 # Segmenter-les-comportements-de-clients
-This project aim to give a model , which can allow to classify a customer in his best category , based on his previous purchases.  
+This project aim to give a model , which can allow to classify a customer to his best category , based on his previous purchases.  
 Thus we find in this repistory the following files :  
 The file Online <font color=black>**Retail.xlsv**</font> : contains the dataset that we had used .  
 The file namely <font color=black>**cleaning & exploration** </font>: intend to do the cleaning and exploration of our datas .  

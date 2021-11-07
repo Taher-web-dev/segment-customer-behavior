@@ -23,17 +23,14 @@ To get a local copy up and running follow these simple example steps.
 - Clone this project by the command: 
 
 ```
-$ git clone git@github.com:Taher-web-dev/-Develop-a-movie-recommendation-engine.git
+$ git clone git@github.com:Taher-web-dev/segment-customer-behavior.git
 ```
 
 - Then go to the main folder using the next command:
 
 ```
-$ cd -Develop-a-movie-recommendation-engine
+$ cd segment-customer-behavior
 ```
-
-
-
 
 ### Prerequisites
 
